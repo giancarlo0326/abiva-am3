@@ -1,0 +1,169 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="bookid" version="3.0">
+	<metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
+		<meta name="generator" content="Adobe InDesign 9.0" />
+		<meta name="cover" content="coverImg" />
+		<dc:title>ALAB Makabansa 3</dc:title>
+		<dc:date>2026-01-26</dc:date>
+		<dc:language>en-GB</dc:language>
+		<dc:publisher>Abiva Publishing House Inc</dc:publisher>
+		<meta property="dcterms:modified">2026-01-26T12:00:00Z</meta>
+		<dc:identifier id="bookid">urn:uuid: 9786214056644</dc:identifier>
+	</metadata>
+	
+	<manifest>
+		
+		<!-- Pages -->
+		<item id="CoverImage" href="CoverImage.xhtml" media-type="application/xhtml+xml"></item>
+		<item id="title" href="title.xhtml" media-type="application/xhtml+xml"></item>
+		<item id="table_of_contents" href="table_of_contents.xhtml" media-type="application/xhtml+xml"></item>
+		<item id="copyright" href="copyright.xhtml" media-type="application/xhtml+xml"></item>
+		<item id="gabay" href="gabay.xhtml" media-type="application/xhtml+xml"></item>
+		<item id="pamantayan" href="pamantayan.xhtml" media-type="application/xhtml+xml"></item>
+		<item id="pasasalamat" href="pasasalamat.xhtml" media-type="application/xhtml+xml"></item>
+		<item id="paunangsalita" href="paunangsalita.xhtml" media-type="application/xhtml+xml"></item>
+	
+	
+	
+		<!-- U1 xhtml files -->
+		<item id="U1" href="unit1/U1.xhtml" media-type="application/xhtml+xml"></item>
+		<item id="U1L1" href="unit1/U1L1.xhtml" media-type="application/xhtml+xml"></item>
+		<item id="U1L2" href="unit1/U1L2.xhtml" media-type="application/xhtml+xml"></item>
+		<item id="U1L3" href="unit1/U1L3.xhtml" media-type="application/xhtml+xml"></item>
+		<item id="U1L4" href="unit1/U1L4.xhtml" media-type="application/xhtml+xml"></item>
+		<item id="U1L5" href="unit1/U1L5.xhtml" media-type="application/xhtml+xml"></item>
+		<item id="U1L6" href="unit1/U1L6.xhtml" media-type="application/xhtml+xml"></item>
+		<item id="U1L7" href="unit1/U1L7.xhtml" media-type="application/xhtml+xml"></item>
+		<item id="U1L8" href="unit1/U1L8.xhtml" media-type="application/xhtml+xml"></item>
+		<item id="U1L9" href="unit1/U1L9.xhtml" media-type="application/xhtml+xml"></item>
+		<item id="U1L10" href="unit1/U1L10.xhtml" media-type="application/xhtml+xml"></item>
+		<item id="U1L11" href="unit1/U1L11.xhtml" media-type="application/xhtml+xml"></item>
+		<item id="U1L12" href="unit1/U1L12.xhtml" media-type="application/xhtml+xml"></item>
+		<item id="U1L13" href="unit1/U1L13.xhtml" media-type="application/xhtml+xml"></item>
+		<item id="U1L14" href="unit1/U1L14.xhtml" media-type="application/xhtml+xml"></item>
+		<item id="U1L15" href="unit1/U1L15.xhtml" media-type="application/xhtml+xml"></item>
+        <item id="U1L16" href="unit1/U1L16.xhtml" media-type="application/xhtml+xml"></item>
+        <item id="U1L17" href="unit1/U1L17.xhtml" media-type="application/xhtml+xml"></item>
+        <item id="U1L18" href="unit1/U1L18.xhtml" media-type="application/xhtml+xml"></item>
+        <item id="U1L19" href="unit1/U1L19.xhtml" media-type="application/xhtml+xml"></item>
+        <item id="U1L20" href="unit1/U1L20.xhtml" media-type="application/xhtml+xml"></item>
+        <item id="U1L21" href="unit1/U1L21.xhtml" media-type="application/xhtml+xml"></item>
+        <item id="U1L22" href="unit1/U1L22.xhtml" media-type="application/xhtml+xml"></item>
+
+		<!-- TOC -->
+		<item id="ncx" href="toc.ncx" media-type="application/x-dtbncx+xml"></item>
+		<item id="toc" href="toc.xhtml" media-type="application/xhtml+xml" properties="nav"></item>
+		
+
+		<!-- CSS -->
+		<item id="idGeneratedStyles.css" href="css/idGeneratedStyles.css" media-type="text/css"></item>
+		
+
+		<!-- Fonts -->		
+		<item id="VAGRON.TTF" href="font/VAGRON.TTF" media-type="application/x-font-ttf"></item>	
+		<item id="Avgardd.ttf" href="font/Avgardd.ttf" media-type="application/x-font-ttf"></item>	
+		<item id="Avgarddo.ttf" href="font/Avgarddo.ttf" media-type="application/x-font-ttf"></item>
+		<item id="Avgardn.ttf" href="font/Avgardn.ttf" media-type="application/x-font-ttf"></item>
+		<item id="Avgardni.ttf" href="font/Avgardni.ttf" media-type="application/x-font-ttf"></item>
+		<item id="BillyBolt.ttf" href="font/BillyBolt.ttf" media-type="application/x-font-ttf"></item>
+		<item id="Chaparral.ttf" href="font/Chaparral_Pro_Bold.ttf" media-type="application/x-font-ttf"></item>
+		<item id="NexaExtraLight.ttf" href="font/Nexa-ExtraLight.ttf" media-type="application/x-font-ttf"></item>
+		<item id="NexaHeavy.ttf" href="font/Nexa-Heavy.ttf" media-type="application/x-font-ttf"></item>
+		
+		
+		
+		<!-- Images -->
+		<item id="gabay01.png" href="image/gabay01.png" media-type="image/png"></item>
+		<item id="gabay02.png" href="image/gabay02.png" media-type="image/png"></item>
+		<item id="girl.png" href="image/girl.png" media-type="image/png"></item>
+		<item id="pamantayanQR.png" href="image/pamantayanQR.png" media-type="image/png"></item>
+		
+		<item id="UnangMarkahan.png" href="image/UnangMarkahan.png" media-type="image/png"></item>
+		<item id="IkalawangMarkahan.png" href="image/IkalawangMarkahan.png" media-type="image/png"></item>
+		<item id="IkatlongMarkahan.png" href="image/IkatlongMarkahan.png" media-type="image/png"></item>
+		<item id="IkaapatMarkahan.png" href="image/IkaapatMarkahan.png" media-type="image/png"></item>
+		
+		<item id="coverImg" href="image/cover.png" media-type="image/png"></item>
+		<item id="titleImg" href="image/title.png" media-type="image/png"></item>
+		<item id="ekis" href="image/ekis.png" media-type="image/png"></item>
+		<item id="tsek" href="image/tsek.png" media-type="image/png"></item>
+
+		<!-- Unit 1 Lesson 1 -->
+		<item id="lines.png" href="image/lines.png" media-type="image/png"></item>
+		<item id="img001.png" href="image/unit1/img001.png" media-type="image/png"></item>
+		<item id="img002.png" href="image/unit1/img002.png" media-type="image/png"></item>
+		<item id="img003.png" href="image/unit1/img003.png" media-type="image/png"></item>
+		<item id="img004.png" href="image/unit1/img004.png" media-type="image/png"></item>
+		<item id="img005.png" href="image/unit1/img005.png" media-type="image/png"></item>
+		<item id="img006.png" href="image/unit1/img006.png" media-type="image/png"></item>
+		<item id="img007.png" href="image/unit1/img007.png" media-type="image/png"></item>
+		<item id="img008.png" href="image/unit1/img008.png" media-type="image/png"></item>
+		<item id="img009.png" href="image/unit1/img009.png" media-type="image/png"></item>
+		<item id="img010.png" href="image/unit1/img010.png" media-type="image/png"></item>
+		<item id="img011.png" href="image/unit1/img011.png" media-type="image/png"></item>
+		<item id="img012.png" href="image/unit1/img012.png" media-type="image/png"></item>
+		<item id="img013.png" href="image/unit1/img013.png" media-type="image/png"></item>
+		<item id="img014.png" href="image/unit1/img014.png" media-type="image/png"></item>
+		<item id="img015.png" href="image/unit1/img015.png" media-type="image/png"></item>
+		<item id="img016.png" href="image/unit1/img016.png" media-type="image/png"></item>
+		<item id="img017.png" href="image/unit1/img017.png" media-type="image/png"></item>
+		<item id="img018.png" href="image/unit1/img018.png" media-type="image/png"></item>
+		<item id="img019.png" href="image/unit1/img019.png" media-type="image/png"></item>
+		<item id="img020.png" href="image/unit1/img020.png" media-type="image/png"></item>
+		<item id="img021.png" href="image/unit1/img021.png" media-type="image/png"></item>
+		<item id="img022.png" href="image/unit1/img022.png" media-type="image/png"></item>
+		<item id="img023.png" href="image/unit1/img023.png" media-type="image/png"></item>
+		<item id="img024.png" href="image/unit1/img024.png" media-type="image/png"></item>
+		<item id="img025.png" href="image/unit1/img025.png" media-type="image/png"></item>
+        <item id="img026.png" href="image/unit1/img026.png" media-type="image/png"></item>
+        <item id="img027.png" href="image/unit1/img027.png" media-type="image/png"></item>
+        <item id="img028.png" href="image/unit1/img028.png" media-type="image/png"></item>
+        <item id="img029.png" href="image/unit1/img029.png" media-type="image/png"></item>
+        <item id="img030.png" href="image/unit1/img030.png" media-type="image/png"></item>
+        <item id="img031.png" href="image/unit1/img031.png" media-type="image/png"></item>
+        <item id="img032.png" href="image/unit1/img032.png" media-type="image/png"></item>
+        <item id="img033.png" href="image/unit1/img033.png" media-type="image/png"></item>
+        <item id="img034.png" href="image/unit1/img034.png" media-type="image/png"></item>
+        <item id="img035.png" href="image/unit1/img035.png" media-type="image/png"></item>
+        <item id="img036.png" href="image/unit1/img036.png" media-type="image/png"></item>
+        <item id="img037.png" href="image/unit1/img037.png" media-type="image/png"></item>
+		
+	</manifest>
+	<spine toc="ncx">
+		
+		<itemref idref="CoverImage"/>
+		<itemref idref="title"/>	
+		<itemref idref="copyright"/>
+		<itemref idref="table_of_contents"/>
+		
+		<itemref idref="paunangsalita"/>
+		<itemref idref="gabay"/>
+		<itemref idref="pamantayan"/>
+		<itemref idref="pasasalamat"/>
+
+		<itemref idref="U1"/>
+		<itemref idref="U1L1"/>
+		<itemref idref="U1L2"/>
+		<itemref idref="U1L3"/>
+		<itemref idref="U1L4"/>
+		<itemref idref="U1L5"/>
+		<itemref idref="U1L6"/>
+		<itemref idref="U1L7"/>
+		<itemref idref="U1L8"/>
+		<itemref idref="U1L9"/>
+		<itemref idref="U1L10"/>
+		<itemref idref="U1L11"/>
+		<itemref idref="U1L12"/>
+		<itemref idref="U1L13"/>
+		<itemref idref="U1L14"/>
+		<itemref idref="U1L15"/>
+		<itemref idref="U1L16"/>
+		<itemref idref="U1L17"/>
+		<itemref idref="U1L18"/>
+		<itemref idref="U1L19"/>
+		<itemref idref="U1L20"/>
+		<itemref idref="U1L21"/>
+		<itemref idref="U1L22"/>
+				
+	</spine>
+</package>
