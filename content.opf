@@ -48,8 +48,25 @@
         <item id="U1L19" href="unit1/U1L19.xhtml" media-type="application/xhtml+xml"></item>
         <item id="U1L20" href="unit1/U1L20.xhtml" media-type="application/xhtml+xml"></item>
         <item id="U1L21" href="unit1/U1L21.xhtml" media-type="application/xhtml+xml"></item>
-        <item id="U1L22" href="unit1/U1L22.xhtml" media-type="application/xhtml+xml"></item>
-
+		<item id="U1L22" href="unit1/U1L22.xhtml" media-type="application/xhtml+xml"></item>
+        <item id="U1L23" href="unit1/U1L23.xhtml" media-type="application/xhtml+xml"></item>
+        <item id="U1L24" href="unit1/U1L24.xhtml" media-type="application/xhtml+xml"></item>
+        <item id="U1L25" href="unit1/U1L25.xhtml" media-type="application/xhtml+xml"></item>
+        <item id="U1L26" href="unit1/U1L26.xhtml" media-type="application/xhtml+xml"></item>
+        <item id="U1L27" href="unit1/U1L27.xhtml" media-type="application/xhtml+xml"></item>
+        <item id="U1L28" href="unit1/U1L28.xhtml" media-type="application/xhtml+xml"></item>
+        <item id="U1L29" href="unit1/U1L29.xhtml" media-type="application/xhtml+xml"></item>
+        <item id="U1L30" href="unit1/U1L30.xhtml" media-type="application/xhtml+xml"></item>
+        <item id="U1L31" href="unit1/U1L31.xhtml" media-type="application/xhtml+xml"></item>
+        <item id="U1L32" href="unit1/U1L32.xhtml" media-type="application/xhtml+xml"></item>
+        <item id="U1L33" href="unit1/U1L33.xhtml" media-type="application/xhtml+xml"></item>
+        <item id="U1L34" href="unit1/U1L34.xhtml" media-type="application/xhtml+xml"></item>
+        <item id="U1L35" href="unit1/U1L35.xhtml" media-type="application/xhtml+xml"></item>
+        <item id="U1L36" href="unit1/U1L36.xhtml" media-type="application/xhtml+xml"></item>
+        <item id="U1L37" href="unit1/U1L37.xhtml" media-type="application/xhtml+xml"></item>
+        <item id="U1L38" href="unit1/U1L38.xhtml" media-type="application/xhtml+xml"></item>
+        <item id="U1L39" href="unit1/U1L39.xhtml" media-type="application/xhtml+xml"></item>
+        <item id="U1L40" href="unit1/U1L40.xhtml" media-type="application/xhtml+xml"></item>
 		<!-- TOC -->
 		<item id="ncx" href="toc.ncx" media-type="application/x-dtbncx+xml"></item>
 		<item id="toc" href="toc.xhtml" media-type="application/xhtml+xml" properties="nav"></item>
@@ -87,6 +104,9 @@
 		<item id="titleImg" href="image/title.png" media-type="image/png"></item>
 		<item id="ekis" href="image/ekis.png" media-type="image/png"></item>
 		<item id="tsek" href="image/tsek.png" media-type="image/png"></item>
+		<item id="smile" href="image/smile.png" media-type="image/png"></item>
+		<item id="sad" href="image/sad.png" media-type="image/png"></item>
+
 
 		<!-- Unit 1 Lesson 1 -->
 		<item id="lines.png" href="image/lines.png" media-type="image/png"></item>
@@ -126,8 +146,39 @@
         <item id="img034.png" href="image/unit1/img034.png" media-type="image/png"></item>
         <item id="img035.png" href="image/unit1/img035.png" media-type="image/png"></item>
         <item id="img036.png" href="image/unit1/img036.png" media-type="image/png"></item>
-        <item id="img037.png" href="image/unit1/img037.png" media-type="image/png"></item>
-		
+		<item id="img037.png" href="image/unit1/img037.png" media-type="image/png"></item>
+        <item id="img038.png" href="image/unit1/img038.png" media-type="image/png"></item>
+        <item id="img039.png" href="image/unit1/img039.png" media-type="image/png"></item>
+        <item id="img040.png" href="image/unit1/img040.png" media-type="image/png"></item>
+        <item id="img041.png" href="image/unit1/img041.png" media-type="image/png"></item>
+        <item id="img042.png" href="image/unit1/img042.png" media-type="image/png"></item>
+        <item id="img043.png" href="image/unit1/img043.png" media-type="image/png"></item>
+        <item id="img044.png" href="image/unit1/img044.png" media-type="image/png"></item>
+        <item id="img045.png" href="image/unit1/img045.png" media-type="image/png"></item>
+        <item id="img046.png" href="image/unit1/img046.png" media-type="image/png"></item>
+        <item id="img047.png" href="image/unit1/img047.png" media-type="image/png"></item>
+        <item id="img048.png" href="image/unit1/img048.png" media-type="image/png"></item>
+        <item id="img049.png" href="image/unit1/img049.png" media-type="image/png"></item>
+        <item id="img050.png" href="image/unit1/img050.png" media-type="image/png"></item>
+        <item id="img051.png" href="image/unit1/img051.png" media-type="image/png"></item>
+        <item id="img052.png" href="image/unit1/img052.png" media-type="image/png"></item>
+        <item id="img053.png" href="image/unit1/img053.png" media-type="image/png"></item>
+        <item id="img054.png" href="image/unit1/img054.png" media-type="image/png"></item>
+        <item id="img055.png" href="image/unit1/img055.png" media-type="image/png"></item>
+        <item id="img056.png" href="image/unit1/img056.png" media-type="image/png"></item>
+        <item id="img057.png" href="image/unit1/img057.png" media-type="image/png"></item>
+        <item id="img058.png" href="image/unit1/img058.png" media-type="image/png"></item>
+        <item id="img059.png" href="image/unit1/img059.png" media-type="image/png"></item>
+        <item id="img060.png" href="image/unit1/img060.png" media-type="image/png"></item>
+        <item id="img061.png" href="image/unit1/img061.png" media-type="image/png"></item>
+        <item id="img062.png" href="image/unit1/img062.png" media-type="image/png"></item>
+        <item id="img063.png" href="image/unit1/img063.png" media-type="image/png"></item>
+        <item id="img064.png" href="image/unit1/img064.png" media-type="image/png"></item>
+        <item id="img065.png" href="image/unit1/img065.png" media-type="image/png"></item>
+        <item id="img066.png" href="image/unit1/img066.png" media-type="image/png"></item>
+        <item id="img067.png" href="image/unit1/img067.png" media-type="image/png"></item>
+        <item id="img068.png" href="image/unit1/img068.png" media-type="image/png"></item>
+
 	</manifest>
 	<spine toc="ncx">
 		
@@ -164,6 +215,24 @@
 		<itemref idref="U1L20"/>
 		<itemref idref="U1L21"/>
 		<itemref idref="U1L22"/>
+        <itemref idref="U1L23"/>
+        <itemref idref="U1L24"/>
+        <itemref idref="U1L25"/>
+        <itemref idref="U1L26"/>
+        <itemref idref="U1L27"/>
+        <itemref idref="U1L28"/>
+        <itemref idref="U1L29"/>
+        <itemref idref="U1L30"/>
+        <itemref idref="U1L31"/>
+        <itemref idref="U1L32"/>
+        <itemref idref="U1L33"/>
+        <itemref idref="U1L34"/>
+        <itemref idref="U1L35"/>
+        <itemref idref="U1L36"/>
+        <itemref idref="U1L37"/>
+        <itemref idref="U1L38"/>
+        <itemref idref="U1L39"/>
+        <itemref idref="U1L40"/>
 				
 	</spine>
 </package>
